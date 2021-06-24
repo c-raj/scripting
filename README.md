@@ -1,5 +1,5 @@
 # Question
-Given access log find all the client IPs that made request to "robot.txt" and print the response status code for the request.
+Given an access log file find all the client IPs that made request to "robot.txt" and also the response status code for the request.
 
 # Answer
 ## Using grep & awk
