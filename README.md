@@ -22,7 +22,7 @@ The output will look like the following snippet:
 ```
 
 ## Using Python
-The same logic is done [here!](http)
+The same logic is implemented in Python in [log_parser.py!](https://github.com/c-raj/scripting/blob/main/log_parser.py) file.
 
 ### Pre-Requisites
 Install Python 3.7 or higher version
